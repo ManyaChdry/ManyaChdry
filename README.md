@@ -1,7 +1,7 @@
 ### Hi there 👋
 <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="300">
 
-I'm a Software Engineering/CS 🇮🇳, I code for developing applications that would easy the lives of users. <br/> <br/>
+I'm a Software Engineering/CS 🇮🇳, I code for developing applications that would ease the lives of users. <br/> <br/>
 [![linkedin badge](https://img.shields.io/badge/LinkedIn-ManyaChdry-%230177B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/manya-chaudhary-170369167/)
 
 - ⚡️ Technologies I work with: C/C++, Python, Web API, JavaScript, CSS, HTML and more...
