@@ -2,13 +2,11 @@
 <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="300">
 
 I'm a Software Engineering/CS 🇮🇳, I code for fun and write scripts. <br/> <br/>
-[![linkedin badge](https://img.shields.io/badge/LinkedIn-shivam1410-%230177B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/manya-chaudhary-170369167/)
+[![linkedin badge](https://img.shields.io/badge/LinkedIn-ManyaChdry-%230177B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/manya-chaudhary-170369167/)
 
 - ⚡️ Technologies I work with: C/C++, Python, Web API, JavaScript, CSS, HTML and more...
 - 👨‍💻 All of my projects are available  [here](https://github.com/shivam1410?tab=repositories)
 
-### My GitHub Top Languages 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ManyaChdry&hide=css,html&hide_border=true)
 ### My GitHub stats
 ![Github stats](https://github-readme-stats.vercel.app/api?username=ManyaChdry&show_icons=true&hide_border=true)
 
