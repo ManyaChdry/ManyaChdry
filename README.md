@@ -5,7 +5,7 @@ I'm a Software Engineering/CS 🇮🇳, I code for fun and write scripts. <br/> 
 [![linkedin badge](https://img.shields.io/badge/LinkedIn-ManyaChdry-%230177B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/manya-chaudhary-170369167/)
 
 - ⚡️ Technologies I work with: C/C++, Python, Web API, JavaScript, CSS, HTML and more...
-- 👨‍💻 All of my projects are available  [here](https://github.com/shivam1410?tab=repositories)
+- 👨‍💻 All of my projects are available  [here](https://github.com/ManyaChdry?tab=repositories)
 
 ### My GitHub stats
 ![Github stats](https://github-readme-stats.vercel.app/api?username=ManyaChdry&show_icons=true&hide_border=true)
